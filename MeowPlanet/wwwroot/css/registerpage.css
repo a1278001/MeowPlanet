@@ -30,6 +30,8 @@ body {
     border: 1px solid #fff;
     border-radius: 30px;
     height: 100%;
+    background-color: #171b20;
+    background-image: radial-gradient(rgb(27, 39, 53) 0%, rgb(0, 0, 0) 100%);
 }
 
 .registersection .col-6{
